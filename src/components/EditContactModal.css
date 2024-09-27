@@ -1,0 +1,9 @@
+.edit-button {
+    background-color: #74e171; 
+    color: white;
+    margin-left: 10px;
+}
+
+.edit-button:hover {
+    background-color: #0b9c06;
+}

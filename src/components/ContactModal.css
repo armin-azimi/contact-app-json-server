@@ -1,0 +1,49 @@
+.modal-content-add {
+    background: #0066cc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.modal-content-add h2 {
+    margin: 0 178px 50px;
+    color: #fff;
+    
+}
+
+.modal-content-add input {
+    width: 80%;
+    margin-bottom: 40px;
+    margin-left: 42px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.modal-content-add button {
+    margin-right: 5px;
+    margin-left: 42px;
+    width: 180px;
+}
+
+.add-contact-button:hover {
+    background-color: #00c100;
+    color: #fff;
+}
+
+.cancel-button {
+    margin-left: 55px !important;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none; 
+    margin: 0;
+}
